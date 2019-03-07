@@ -1,1 +1,1 @@
-test
+JS learning - simple memory game.
