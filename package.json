@@ -16,7 +16,18 @@
     "url": "https://github.com/myszker/Memory-game/issues"
   },
   "homepage": "https://github.com/myszker/Memory-game#readme",
-  "devDependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^9.5.0",
+    "browser-sync": "^2.26.3",
+    "cssnano": "^4.1.10",
+    "del": "^4.0.0",
+    "gulp-cache": "^1.1.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-watch": "^5.0.1",
+    "run-sequence": "^2.2.1"
+  },
   "dependencies": {
     "gulp": "^4.0.0"
   }
