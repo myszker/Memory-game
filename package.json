@@ -16,7 +16,8 @@
     "url": "https://github.com/myszker/Memory-game/issues"
   },
   "homepage": "https://github.com/myszker/Memory-game#readme",
-  "devDependencies": {
-    "webpack": "^4.29.6"
+  "devDependencies": {},
+  "dependencies": {
+    "gulp": "^4.0.0"
   }
 }
